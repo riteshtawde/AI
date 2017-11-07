@@ -1,3 +1,3 @@
-# AI_Fall_2016
+# AI
 Artificial intelligence
 Few AI algorithms
